@@ -1,5 +1,5 @@
 # Creating Reports 
-### Preparing multiple files for report or analisys
+### Preparing multiple files for report or analysis
 An example of how input files can automatically get prepared for analysis or reporting.
 There are three files in the repository: two scripts and the final report as a .pdf. Use "Reports: File preparation script" to prepare indivual files and "Reports: File summation script" to create the final .csv.
 
