@@ -8,6 +8,7 @@ The script can be almost infinitely tweaked and adapted for diferent needs but t
 You can download and run the scrips locally with your own files using Python and [Jupyter Notebooks](http://jupyter.org/). Note that you also need the libraries Pandas, Numpy and MatPlotLib to run the script. The easiest way to get the enviromments running is to install the [Anaconda distribution](https://www.anaconda.com/).
 
 The report Print Report 2017-2018 has been created using Google's DataStudio and looks something like this:
+
 ![alt text](https://raw.githubusercontent.com/samuel-js/Create-Reports-file-prep-and-sum/master/img_report.png)
 
 
